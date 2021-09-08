@@ -1,6 +1,6 @@
 # Spanish
 
-- ¿Quíen es @Metallumcor? Es chico que ama las matemáticas y disfruta construyendo soluciones análiticas. 
+- ¿Quíen es @Metallumcor? Es un chico que ama las matemáticas y disfruta construyendo soluciones análiticas. 
 Él tiene una maestría en ciencias estadísticas de la universidad Nacional de Colombia y cuenta con más de un
 año de experiencía en análisis de datos, consultoría estadística y ciencia de datos.
 
